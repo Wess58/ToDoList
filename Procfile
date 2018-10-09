@@ -1,1 +1,1 @@
-web: ./build/install/todo/bin/todo
+web: ./build/install/todolist-58/bin/todolist-58
